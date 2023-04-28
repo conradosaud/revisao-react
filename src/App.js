@@ -32,6 +32,7 @@ function App() {
             <p> Nova York - R$ 1.200 <button onClick={()=>compraPassagem(1200)} > Comprar </button> </p>
             <p> Londres - R$ 1.550 <button onClick={()=>compraPassagem(1550)} > Comprar </button> </p>
             <p> França - R$ 1.700 <button onClick={()=>compraPassagem(1700)} > Comprar </button> </p>
+            <p> Moscou - R$ 1.110 <button onClick={()=>compraPassagem(1100)} > Comprar </button> </p>
 
         </div>
     );
