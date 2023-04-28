@@ -12,4 +12,4 @@ Comandos usados:
 
 ## GitHub
 
-Nessa aula aprendemos também como usar o GitHub.
+Nessa aula aprendemos também como usar o _GitHub_.
