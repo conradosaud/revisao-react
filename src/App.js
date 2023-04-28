@@ -23,7 +23,7 @@ function App() {
 
             <h1 >Conradito Viagens</h1>
             <p>Conheço o mundo com preços acessíveis</p>
-            <button>Contato</button>
+
             <button onClick={ ()=> adicionaCredito() } >Adicionar Crédito</button>
 
             <p> Seu crédito é de <strong>R$ { credito } </strong> </p>
